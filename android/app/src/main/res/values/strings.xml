@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">mobiTracker</string>
+    <string name="account_type">com.sleek.nascosales.account</string>
+    <string name="content_authority">com.sleek.nascosales.authority</string>
+    <string name="google_api_key">AIzaSyBulVtypp7XrQnLH6iyG8cSxsMOf4P3w-c</string>
+</resources>
